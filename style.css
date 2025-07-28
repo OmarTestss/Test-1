@@ -1,0 +1,66 @@
+body {
+  font-family: "Tahoma", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  direction: rtl;
+  text-align: center;
+}
+
+header {
+  background-color: #2b4d66;
+  color: white;
+  padding: 20px 10px;
+}
+
+.logo {
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+.hero {
+  padding: 30px 20px;
+  background-color: #e1ecf4;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 25px;
+  font-size: 18px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
+
+.branches-section {
+  padding: 30px 20px;
+  background-color: #ffffff;
+}
+
+.branches-section h2 {
+  margin-bottom: 20px;
+}
+
+#branchesList {
+  list-style: none;
+  padding: 0;
+}
+
+#branchesList li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+footer {
+  background-color: #2b4d66;
+  color: white;
+  padding: 15px 10px;
+  margin-top: 30px;
+}
